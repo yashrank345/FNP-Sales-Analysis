@@ -33,11 +33,7 @@ This project showcases an **interactive Sales Analysis Dashboard** built using *
 - Pivot Charts  
 - Excel Slicers  
 
----
 
-## Project Files
-- **Sales_Dashboard.xlsx** – Complete Excel Dashboard  
-- **/assets** – Screenshots & preview images (optional)
 
 ---
 
